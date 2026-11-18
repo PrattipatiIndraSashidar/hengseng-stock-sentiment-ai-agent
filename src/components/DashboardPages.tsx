@@ -1099,6 +1099,14 @@ export function ReportsPage({
             <Download className="h-3.5 w-3.5" aria-hidden="true" />
             Export CSV
           </button>
+          <a
+            href="/api/reports/about-pdf"
+            download="HengSeng_About_This_Project.pdf"
+            className="inline-flex items-center gap-1.5 whitespace-nowrap shrink-0 rounded-lg border border-slate-700 bg-[#111827] px-3.5 py-2 text-xs font-medium text-slate-200 hover:border-slate-500"
+          >
+            <FileText className="h-3.5 w-3.5" aria-hidden="true" />
+            Project Overview PDF
+          </a>
           <button
             onClick={() =>
               exportSummariesToPdf(

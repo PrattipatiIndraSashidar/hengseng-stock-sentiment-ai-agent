@@ -198,6 +198,21 @@ print(json.dumps({"auth": c.verify_authentication(), "probe": probe, "test_runs"
     res.download(pdfPath, 'hengseng_report.pdf');
   });
 
+  app.get('/api/reports/about-pdf', async (_req, res) => {
+    try {
+      const aboutPdfPath = path.join(REPORTS_DIR, 'about_hengseng_project.pdf');
+      if (!fs.existsSync(aboutPdfPath)) {
+        await execFileAsync('node', [path.join(ROOT_DIR, 'scripts', 'generate_about_pdf.mjs')], {
+          cwd: ROOT_DIR,
+          timeout: 15000,
+        });
+      }
+      res.download(aboutPdfPath, 'HengSeng_About_This_Project.pdf');
+    } catch (err: any) {
+      res.status(500).json({ error: err?.message || 'Failed to generate project overview PDF' });
+    }
+  });
+
   if (process.env.NODE_ENV !== 'production') {
     const { createServer: createViteServer } = await import('vite');
     const hmrDisabled = process.env.DISABLE_HMR === 'true';
