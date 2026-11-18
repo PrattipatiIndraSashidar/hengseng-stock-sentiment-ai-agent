@@ -1,0 +1,40 @@
+[
+  {
+    "ticker": "1299.HK",
+    "company_name": "AIA Group",
+    "post_id": "sim_1299_HK_2026-11-03_0",
+    "post_text": "AIA Group (1299.HK) 走勢橫行整固，暫時觀望等待業績公布。",
+    "post_timestamp": "2026-11-03T03:15:00+00:00",
+    "utc_timestamp": "2026-11-03T03:15:00+00:00",
+    "source_platform": "LIHKG",
+    "author_username": null,
+    "author_follower_count": null,
+    "likes": 43,
+    "comments": 16,
+    "reposts": 0,
+    "views": 769,
+    "post_url": "https://example.invalid/lihkg/1299.HK/2026-11-03/0",
+    "raw_payload": "{\"ticker\": \"1299.HK\", \"company_name\": \"AIA Group\", \"post_id\": \"sim_1299_HK_2026-11-03_0\", \"post_text\": \"AIA Group (1299.HK) 走勢橫行整固，暫時觀望等待業績公布。\", \"post_timestamp\": \"2026-11-03T03:15:00+00:00\", \"utc_timestamp\": \"2026-11-03T03:15:00+00:00\", \"source_platform\": \"LIHKG\", \"author_username\": null, \"author_follower_count\": null, \"likes\": 43, \"comments\": 16, \"reposts\": 0, \"views\": 769, \"post_url\": \"https://example.invalid/lihkg/1299.HK/2026-11-03/0\", \"_data_category\": \"SIMULATED DEMO DATA\", \"_simulated_demo_mode\": true}",
+    "is_simulated": true,
+    "data_category": "SIMULATED DEMO DATA"
+  },
+  {
+    "ticker": "1299.HK",
+    "company_name": "AIA Group",
+    "post_id": "sim_1299_HK_2026-11-04_1",
+    "post_text": "AIA Group估值合理但缺乏短期催化劑，繼續持有觀望。",
+    "post_timestamp": "2026-11-04T11:15:00+00:00",
+    "utc_timestamp": "2026-11-04T11:15:00+00:00",
+    "source_platform": "LIHKG",
+    "author_username": null,
+    "author_follower_count": null,
+    "likes": 39,
+    "comments": 10,
+    "reposts": 0,
+    "views": 356,
+    "post_url": "https://example.invalid/lihkg/1299.HK/2026-11-04/1",
+    "raw_payload": "{\"ticker\": \"1299.HK\", \"company_name\": \"AIA Group\", \"post_id\": \"sim_1299_HK_2026-11-04_1\", \"post_text\": \"AIA Group估值合理但缺乏短期催化劑，繼續持有觀望。\", \"post_timestamp\": \"2026-11-04T11:15:00+00:00\", \"utc_timestamp\": \"2026-11-04T11:15:00+00:00\", \"source_platform\": \"LIHKG\", \"author_username\": null, \"author_follower_count\": null, \"likes\": 39, \"comments\": 10, \"reposts\": 0, \"views\": 356, \"post_url\": \"https://example.invalid/lihkg/1299.HK/2026-11-04/1\", \"_data_category\": \"SIMULATED DEMO DATA\", \"_simulated_demo_mode\": true}",
+    "is_simulated": true,
+    "data_category": "SIMULATED DEMO DATA"
+  }
+]

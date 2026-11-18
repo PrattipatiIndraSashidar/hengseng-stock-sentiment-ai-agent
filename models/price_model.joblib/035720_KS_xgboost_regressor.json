@@ -1,0 +1,32 @@
+{
+  "ticker": "035720.KS",
+  "model_name": "XGBoost Regressor",
+  "trained_samples": 61,
+  "feature_columns": [
+    "daily_return",
+    "rsi_14",
+    "close_to_sma5",
+    "close_to_sma20",
+    "intraday_range",
+    "macd_diff_norm",
+    "volatility_10",
+    "news_sentiment",
+    "news_relevance",
+    "news_recency"
+  ],
+  "feature_importances": {
+    "daily_return": 0.0966,
+    "rsi_14": 0.149,
+    "close_to_sma5": 0.1325,
+    "close_to_sma20": 0.1565,
+    "intraday_range": 0.0445,
+    "macd_diff_norm": 0.0976,
+    "volatility_10": 0.2766,
+    "news_sentiment": 0.0467,
+    "news_relevance": 0.0,
+    "news_recency": 0.0
+  },
+  "prediction_date": "2026-11-17",
+  "forecast_target_date": "2026-11-18",
+  "saved_at_utc": "2026-11-17T09:44:49.716060+00:00"
+}

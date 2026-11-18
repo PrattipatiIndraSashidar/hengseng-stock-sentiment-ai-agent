@@ -1,0 +1,40 @@
+{
+  "ticker": "1810.HK",
+  "model_name": "Random Forest Regressor",
+  "trained_samples": 37,
+  "feature_columns": [
+    "daily_return",
+    "rsi_14",
+    "close_to_sma5",
+    "close_to_sma20",
+    "intraday_range",
+    "macd_diff_norm",
+    "volatility_10",
+    "social_sentiment",
+    "pos_neg_ratio",
+    "engagement_score",
+    "sentiment_change",
+    "news_sentiment",
+    "news_relevance",
+    "news_recency"
+  ],
+  "feature_importances": {
+    "daily_return": 0.0385,
+    "rsi_14": 0.2982,
+    "close_to_sma5": 0.1115,
+    "close_to_sma20": 0.0296,
+    "intraday_range": 0.1511,
+    "macd_diff_norm": 0.2959,
+    "volatility_10": 0.0,
+    "social_sentiment": 0.0,
+    "pos_neg_ratio": 0.0252,
+    "engagement_score": 0.0059,
+    "sentiment_change": 0.0,
+    "news_sentiment": 0.0,
+    "news_relevance": 0.0265,
+    "news_recency": 0.0176
+  },
+  "prediction_date": "2026-11-16",
+  "forecast_target_date": "2026-11-17",
+  "saved_at_utc": "2026-11-17T09:14:24.967908+00:00"
+}

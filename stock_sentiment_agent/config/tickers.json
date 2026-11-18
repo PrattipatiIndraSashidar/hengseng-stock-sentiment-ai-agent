@@ -1,0 +1,82 @@
+[
+  {
+    "ticker": "0700.HK",
+    "company_name": "Tencent",
+    "exchange": "HKEX",
+    "sector": "Communication Services",
+    "aliases": ["騰訊", "Tencent Holdings", "0700", "700.HK"],
+    "enabled": true
+  },
+  {
+    "ticker": "9988.HK",
+    "company_name": "Alibaba",
+    "exchange": "HKEX",
+    "sector": "Consumer Cyclical",
+    "aliases": ["阿里巴巴", "Alibaba Group", "9988", "BABA"],
+    "enabled": true
+  },
+  {
+    "ticker": "3690.HK",
+    "company_name": "Meituan",
+    "exchange": "HKEX",
+    "sector": "Consumer Cyclical",
+    "aliases": ["美團", "Meituan Dianping", "3690"],
+    "enabled": true
+  },
+  {
+    "ticker": "1810.HK",
+    "company_name": "Xiaomi",
+    "exchange": "HKEX",
+    "sector": "Technology",
+    "aliases": ["小米", "Xiaomi Corp", "1810"],
+    "enabled": true
+  },
+  {
+    "ticker": "1299.HK",
+    "company_name": "AIA Group",
+    "exchange": "HKEX",
+    "sector": "Financial Services",
+    "aliases": ["友邦保險", "AIA", "1299"],
+    "enabled": true
+  },
+  {
+    "ticker": "005930.KS",
+    "company_name": "Samsung Electronics",
+    "exchange": "KRX",
+    "sector": "Technology",
+    "aliases": ["삼성전자", "Samsung", "005930"],
+    "enabled": true
+  },
+  {
+    "ticker": "000660.KS",
+    "company_name": "SK Hynix",
+    "exchange": "KRX",
+    "sector": "Technology",
+    "aliases": ["SK하이닉스", "하이닉스", "000660"],
+    "enabled": true
+  },
+  {
+    "ticker": "035420.KS",
+    "company_name": "NAVER",
+    "exchange": "KRX",
+    "sector": "Communication Services",
+    "aliases": ["네이버", "Naver Corp", "035420"],
+    "enabled": true
+  },
+  {
+    "ticker": "005380.KS",
+    "company_name": "Hyundai Motor",
+    "exchange": "KRX",
+    "sector": "Consumer Cyclical",
+    "aliases": ["현대차", "현대자동차", "005380"],
+    "enabled": true
+  },
+  {
+    "ticker": "035720.KS",
+    "company_name": "Kakao",
+    "exchange": "KRX",
+    "sector": "Communication Services",
+    "aliases": ["카카오", "Kakao Corp", "035720"],
+    "enabled": true
+  }
+]

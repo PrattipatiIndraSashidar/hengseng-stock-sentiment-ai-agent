@@ -1,0 +1,40 @@
+[
+  {
+    "ticker": "005380.KS",
+    "company_name": "Hyundai Motor",
+    "post_id": "sim_005380_KS_2026-11-03_0",
+    "post_text": "Hyundai Motor (005380.KS) 박스권 등락 지속, 실적 발표 전까지 관망 유지.",
+    "post_timestamp": "2026-11-03T03:15:00+00:00",
+    "utc_timestamp": "2026-11-03T03:15:00+00:00",
+    "source_platform": "Naver Finance",
+    "author_username": null,
+    "author_follower_count": null,
+    "likes": 34,
+    "comments": 18,
+    "reposts": 0,
+    "views": 1051,
+    "post_url": "https://example.invalid/naver-finance/005380.KS/2026-11-03/0",
+    "raw_payload": "{\"ticker\": \"005380.KS\", \"company_name\": \"Hyundai Motor\", \"post_id\": \"sim_005380_KS_2026-11-03_0\", \"post_text\": \"Hyundai Motor (005380.KS) 박스권 등락 지속, 실적 발표 전까지 관망 유지.\", \"post_timestamp\": \"2026-11-03T03:15:00+00:00\", \"utc_timestamp\": \"2026-11-03T03:15:00+00:00\", \"source_platform\": \"Naver Finance\", \"author_username\": null, \"author_follower_count\": null, \"likes\": 34, \"comments\": 18, \"reposts\": 0, \"views\": 1051, \"post_url\": \"https://example.invalid/naver-finance/005380.KS/2026-11-03/0\", \"_data_category\": \"SIMULATED DEMO DATA\", \"_simulated_demo_mode\": true}",
+    "is_simulated": true,
+    "data_category": "SIMULATED DEMO DATA"
+  },
+  {
+    "ticker": "005380.KS",
+    "company_name": "Hyundai Motor",
+    "post_id": "sim_005380_KS_2026-11-04_1",
+    "post_text": "Hyundai Motor 외국인 수급 혼조세, 추가 방향성 확인 후 대응 예정.",
+    "post_timestamp": "2026-11-04T11:15:00+00:00",
+    "utc_timestamp": "2026-11-04T11:15:00+00:00",
+    "source_platform": "Naver Finance",
+    "author_username": null,
+    "author_follower_count": null,
+    "likes": 17,
+    "comments": 15,
+    "reposts": 0,
+    "views": 722,
+    "post_url": "https://example.invalid/naver-finance/005380.KS/2026-11-04/1",
+    "raw_payload": "{\"ticker\": \"005380.KS\", \"company_name\": \"Hyundai Motor\", \"post_id\": \"sim_005380_KS_2026-11-04_1\", \"post_text\": \"Hyundai Motor 외국인 수급 혼조세, 추가 방향성 확인 후 대응 예정.\", \"post_timestamp\": \"2026-11-04T11:15:00+00:00\", \"utc_timestamp\": \"2026-11-04T11:15:00+00:00\", \"source_platform\": \"Naver Finance\", \"author_username\": null, \"author_follower_count\": null, \"likes\": 17, \"comments\": 15, \"reposts\": 0, \"views\": 722, \"post_url\": \"https://example.invalid/naver-finance/005380.KS/2026-11-04/1\", \"_data_category\": \"SIMULATED DEMO DATA\", \"_simulated_demo_mode\": true}",
+    "is_simulated": true,
+    "data_category": "SIMULATED DEMO DATA"
+  }
+]

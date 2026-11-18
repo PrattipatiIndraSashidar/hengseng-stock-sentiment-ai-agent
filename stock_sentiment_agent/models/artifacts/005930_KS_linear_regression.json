@@ -1,0 +1,26 @@
+{
+  "ticker": "005930.KS",
+  "model_name": "Linear Regression",
+  "trained_samples": 61,
+  "feature_columns": [
+    "daily_return",
+    "rsi_14",
+    "close_to_sma5",
+    "close_to_sma20",
+    "intraday_range",
+    "macd_diff_norm",
+    "volatility_10"
+  ],
+  "feature_importances": {
+    "daily_return": 0.0165,
+    "rsi_14": 0.3384,
+    "close_to_sma5": 0.0068,
+    "close_to_sma20": 0.0033,
+    "intraday_range": 0.3882,
+    "macd_diff_norm": 0.0678,
+    "volatility_10": 0.179
+  },
+  "prediction_date": "2026-11-17",
+  "forecast_target_date": "2026-11-18",
+  "saved_at_utc": "2026-11-17T09:41:06.020953+00:00"
+}

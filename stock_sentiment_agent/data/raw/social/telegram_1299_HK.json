@@ -1,0 +1,40 @@
+[
+  {
+    "ticker": "1299.HK",
+    "company_name": "AIA Group",
+    "post_id": "sim_1299_HK_2026-11-03_1",
+    "post_text": "AIA Group holding position inside range; waiting for clearer macro catalyst.",
+    "post_timestamp": "2026-11-03T08:15:00+00:00",
+    "utc_timestamp": "2026-11-03T08:15:00+00:00",
+    "source_platform": "Telegram",
+    "author_username": "analyst_telegram_01",
+    "author_follower_count": 2936,
+    "likes": 37,
+    "comments": 6,
+    "reposts": 12,
+    "views": 1769,
+    "post_url": "https://example.invalid/telegram/1299.HK/2026-11-03/1",
+    "raw_payload": "{\"ticker\": \"1299.HK\", \"company_name\": \"AIA Group\", \"post_id\": \"sim_1299_HK_2026-11-03_1\", \"post_text\": \"AIA Group holding position inside range; waiting for clearer macro catalyst.\", \"post_timestamp\": \"2026-11-03T08:15:00+00:00\", \"utc_timestamp\": \"2026-11-03T08:15:00+00:00\", \"source_platform\": \"Telegram\", \"author_username\": \"analyst_telegram_01\", \"author_follower_count\": 2936, \"likes\": 37, \"comments\": 6, \"reposts\": 12, \"views\": 1769, \"post_url\": \"https://example.invalid/telegram/1299.HK/2026-11-03/1\", \"_data_category\": \"SIMULATED DEMO DATA\", \"_simulated_demo_mode\": true}",
+    "is_simulated": true,
+    "data_category": "SIMULATED DEMO DATA"
+  },
+  {
+    "ticker": "1299.HK",
+    "company_name": "AIA Group",
+    "post_id": "sim_1299_HK_2026-11-05_1",
+    "post_text": "AIA Group steady dividend profile, wait and see on capital allocation update.",
+    "post_timestamp": "2026-11-05T04:15:00+00:00",
+    "utc_timestamp": "2026-11-05T04:15:00+00:00",
+    "source_platform": "Telegram",
+    "author_username": "analyst_telegram_21",
+    "author_follower_count": 2598,
+    "likes": 39,
+    "comments": 2,
+    "reposts": 6,
+    "views": 1213,
+    "post_url": "https://example.invalid/telegram/1299.HK/2026-11-05/1",
+    "raw_payload": "{\"ticker\": \"1299.HK\", \"company_name\": \"AIA Group\", \"post_id\": \"sim_1299_HK_2026-11-05_1\", \"post_text\": \"AIA Group steady dividend profile, wait and see on capital allocation update.\", \"post_timestamp\": \"2026-11-05T04:15:00+00:00\", \"utc_timestamp\": \"2026-11-05T04:15:00+00:00\", \"source_platform\": \"Telegram\", \"author_username\": \"analyst_telegram_21\", \"author_follower_count\": 2598, \"likes\": 39, \"comments\": 2, \"reposts\": 6, \"views\": 1213, \"post_url\": \"https://example.invalid/telegram/1299.HK/2026-11-05/1\", \"_data_category\": \"SIMULATED DEMO DATA\", \"_simulated_demo_mode\": true}",
+    "is_simulated": true,
+    "data_category": "SIMULATED DEMO DATA"
+  }
+]

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+*.db
+*.sqlite
+*.sqlite3
+models/artifacts/*.joblib
+reports/*.csv
+reports/*.pdf
+.pytest_cache/
+.streamlit/secrets.toml

@@ -1,0 +1,40 @@
+[
+  {
+    "ticker": "005380.KS",
+    "company_name": "Hyundai Motor",
+    "post_id": "sim_005380_KS_2026-11-03_1",
+    "post_text": "Hyundai Motor 배당 매력은 있으나 모멘텀 부족으로 보유 유지.",
+    "post_timestamp": "2026-11-03T08:15:00+00:00",
+    "utc_timestamp": "2026-11-03T08:15:00+00:00",
+    "source_platform": "Daum Finance",
+    "author_username": null,
+    "author_follower_count": null,
+    "likes": 48,
+    "comments": 4,
+    "reposts": 7,
+    "views": 1074,
+    "post_url": "https://example.invalid/daum-finance/005380.KS/2026-11-03/1",
+    "raw_payload": "{\"ticker\": \"005380.KS\", \"company_name\": \"Hyundai Motor\", \"post_id\": \"sim_005380_KS_2026-11-03_1\", \"post_text\": \"Hyundai Motor 배당 매력은 있으나 모멘텀 부족으로 보유 유지.\", \"post_timestamp\": \"2026-11-03T08:15:00+00:00\", \"utc_timestamp\": \"2026-11-03T08:15:00+00:00\", \"source_platform\": \"Daum Finance\", \"author_username\": null, \"author_follower_count\": null, \"likes\": 48, \"comments\": 4, \"reposts\": 7, \"views\": 1074, \"post_url\": \"https://example.invalid/daum-finance/005380.KS/2026-11-03/1\", \"_data_category\": \"SIMULATED DEMO DATA\", \"_simulated_demo_mode\": true}",
+    "is_simulated": true,
+    "data_category": "SIMULATED DEMO DATA"
+  },
+  {
+    "ticker": "005380.KS",
+    "company_name": "Hyundai Motor",
+    "post_id": "sim_005380_KS_2026-11-05_1",
+    "post_text": "Hyundai Motor trading flat near 20-day moving average; hold rating consensus.",
+    "post_timestamp": "2026-11-05T04:15:00+00:00",
+    "utc_timestamp": "2026-11-05T04:15:00+00:00",
+    "source_platform": "Daum Finance",
+    "author_username": null,
+    "author_follower_count": null,
+    "likes": 39,
+    "comments": 7,
+    "reposts": 10,
+    "views": 1119,
+    "post_url": "https://example.invalid/daum-finance/005380.KS/2026-11-05/1",
+    "raw_payload": "{\"ticker\": \"005380.KS\", \"company_name\": \"Hyundai Motor\", \"post_id\": \"sim_005380_KS_2026-11-05_1\", \"post_text\": \"Hyundai Motor trading flat near 20-day moving average; hold rating consensus.\", \"post_timestamp\": \"2026-11-05T04:15:00+00:00\", \"utc_timestamp\": \"2026-11-05T04:15:00+00:00\", \"source_platform\": \"Daum Finance\", \"author_username\": null, \"author_follower_count\": null, \"likes\": 39, \"comments\": 7, \"reposts\": 10, \"views\": 1119, \"post_url\": \"https://example.invalid/daum-finance/005380.KS/2026-11-05/1\", \"_data_category\": \"SIMULATED DEMO DATA\", \"_simulated_demo_mode\": true}",
+    "is_simulated": true,
+    "data_category": "SIMULATED DEMO DATA"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "ticker": "1299.HK",
+  "model_name": "Linear Regression",
+  "trained_samples": 37,
+  "feature_columns": [
+    "daily_return",
+    "rsi_14",
+    "close_to_sma5",
+    "close_to_sma20",
+    "intraday_range",
+    "macd_diff_norm",
+    "volatility_10",
+    "social_sentiment",
+    "pos_neg_ratio",
+    "engagement_score",
+    "sentiment_change",
+    "news_sentiment",
+    "news_relevance",
+    "news_recency"
+  ],
+  "feature_importances": {
+    "daily_return": 0.0743,
+    "rsi_14": 0.0146,
+    "close_to_sma5": 0.1157,
+    "close_to_sma20": 0.1581,
+    "intraday_range": 0.0018,
+    "macd_diff_norm": 0.0631,
+    "volatility_10": 0.1718,
+    "social_sentiment": 0.0516,
+    "pos_neg_ratio": 0.0339,
+    "engagement_score": 0.0977,
+    "sentiment_change": 0.1113,
+    "news_sentiment": 0.0407,
+    "news_relevance": 0.0339,
+    "news_recency": 0.0315
+  },
+  "prediction_date": "2026-11-16",
+  "forecast_target_date": "2026-11-17",
+  "saved_at_utc": "2026-11-17T09:14:27.034766+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "HengSeng Sentiment Price Prediction Agent",
+  "description": "AI-powered multilingual financial sentiment analysis and next-day stock price prediction platform for HKEX and KRX equities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

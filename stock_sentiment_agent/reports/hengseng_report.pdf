@@ -1,0 +1,36 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Length 1391 >> stream
+BT
+/F1 9 Tf
+36 750 Td
+13 TL
+(HengSeng Sentiment Price Prediction Report) Tj
+T* (Generated UTC: 2026-11-17T09:44:49.721563+00:00) Tj
+T* (0700.HK \(HKEX\) Close=376.00 Pred=374.67 \(-0.35%\) Sent=+0.581 Dir=Bullish [HISTORICAL DATA/SIMULATED DEMO DATA]) Tj
+T* (9988.HK \(HKEX\) Close=85.45 Pred=83.53 \(-2.25%\) Sent=+0.593 Dir=Bullish [HISTORICAL DATA/SIMULATED DEMO DATA]) Tj
+T* (3690.HK \(HKEX\) Close=70.50 Pred=70.35 \(-0.21%\) Sent=+0.132 Dir=Bullish [HISTORICAL DATA/SIMULATED DEMO DATA]) Tj
+T* (1810.HK \(HKEX\) Close=29.70 Pred=29.79 \(+0.30%\) Sent=+0.585 Dir=Bullish [HISTORICAL DATA/SIMULATED DEMO DATA]) Tj
+T* (1299.HK \(HKEX\) Close=77.35 Pred=77.50 \(+0.19%\) Sent=+0.681 Dir=Bullish [HISTORICAL DATA/SIMULATED DEMO DATA]) Tj
+T* (005930.KS \(KRX\) Close=190300.00 Pred=193211.44 \(+1.53%\) Sent=-0.040 Dir=Neutral [HISTORICAL DATA/SIMULATED DEMO DATA]) Tj
+T* (000660.KS \(KRX\) Close=1098000.00 Pred=1102858.13 \(+0.44%\) Sent=+0.637 Dir=Bullish [HISTORICAL DATA/SIMULATED DEMO DATA]) Tj
+T* (035420.KS \(KRX\) Close=170000.00 Pred=169316.38 \(-0.40%\) Sent=+0.618 Dir=Bullish [HISTORICAL DATA/SIMULATED DEMO DATA]) Tj
+T* (005380.KS \(KRX\) Close=259000.00 Pred=257259.26 \(-0.67%\) Sent=+0.118 Dir=Neutral [HISTORICAL DATA/SIMULATED DEMO DATA]) Tj
+T* (035720.KS \(KRX\) Close=31700.00 Pred=31555.51 \(-0.46%\) Sent=-0.017 Dir=Neutral [HISTORICAL DATA/SIMULATED DEMO DATA]) Tj
+ET
+endstream endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1754
+%%EOF
